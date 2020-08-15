@@ -10,8 +10,8 @@ Tools/Frameworks: Git, Azure, NodeJS, ReactJS, Visual Studio, Unity, Unreal Engi
 
 ## Data Science and Machine Learning
 
-## Linear Regression Analysis of Auckland House Prices
-[This] report is an analysis of Auckland house prices using Azure Jupyter Notebook. 
+### Linear Regression Analysis of Auckland House Prices
+[This](https://github.com/Sakyawira/auckland-house-prices) is a data collection, analysis, and machine learning model building of Auckland house prices using Azure Jupyter Notebook.
 
 ## Games Credits
 
