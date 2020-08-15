@@ -7,6 +7,12 @@ Programming Languages: C++, C#, Typescript, JavaScript, Python, Swift, Lua, HTML
 
 Tools/Frameworks: Git, Azure, NodeJS, ReactJS, Visual Studio, Unity, Unreal Engine 4.
 
+
+## Data Science and Machine Learning
+
+## Linear Regression Analysis of Auckland House Prices
+[This] report is an analysis of Auckland house prices using Azure Jupyter Notebook. 
+
 ## Games Credits
 
 ### Radiance Shores
@@ -17,7 +23,6 @@ Avoiding darkness, and basking in light. [Noir](https://ourlittlestudio.itch.io/
 
 ### Yanet in Yonderland
 [Yanet in Yonderland](https://ourlittlestudio.itch.io/yanet-in-yonderland) is a side-scrolling puzzle platformer. This game was featured on the front page of [Newgrounds](https://www.newgrounds.com/portal/view/732919) and get published by [Coolmath Games](https://www.coolmathgames.com/0-yanet-in-yonderland).
-
 
 ### Wayward
 [Wayward](https://ourlittlestudio.itch.io/wayward) is an explorative piece about intrinsic and extrinsic motivation.
