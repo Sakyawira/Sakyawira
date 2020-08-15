@@ -20,4 +20,4 @@ Avoiding darkness, and basking in light. [Noir](https://ourlittlestudio.itch.io/
 
 
 ### Wayward
-[Wayward](https://ourlittlestudio.itch.io/wayward) is an explorative piece about intrinsic and extrinsic motivation
+[Wayward](https://ourlittlestudio.itch.io/wayward) is an explorative piece about intrinsic and extrinsic motivation.
