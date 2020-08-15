@@ -16,6 +16,6 @@ Tools/Frameworks: Git, Azure, NodeJS, ReactJS, Visual Studio, Unity, Unreal Engi
 Avoiding darkness, and basking in light. [Noir](https://ourlittlestudio.itch.io/noir) is a unique platformer that utilize lighting as mechanic. 
 
 ### Yanet in Yonderland
-Yanet in Yonderland is  a 2D puzzle side-scrolling platformer. This game was featured on the front page of [Newgrounds](https://www.newgrounds.com/portal/view/732919) and get published by [Coolmath Games](coolmathgames.com/0-yanet-in-yonderland/).
+Yanet in Yonderland is  a 2D puzzle side-scrolling platformer. This game was featured on the front page of [Newgrounds](https://www.newgrounds.com/portal/view/732919) and get published by [Coolmath Games](https://www.coolmathgames.com/0-yanet-in-yonderland).
 
 
