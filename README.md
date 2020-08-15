@@ -19,3 +19,5 @@ Avoiding darkness, and basking in light. [Noir](https://ourlittlestudio.itch.io/
 [Yanet in Yonderland](https://ourlittlestudio.itch.io/yanet-in-yonderland) is a side-scrolling puzzle platformer. This game was featured on the front page of [Newgrounds](https://www.newgrounds.com/portal/view/732919) and get published by [Coolmath Games](https://www.coolmathgames.com/0-yanet-in-yonderland).
 
 
+### Wayward
+[Wayward](https://ourlittlestudio.itch.io/wayward) is an explorative piece about intrinsic and extrinsic motivation
