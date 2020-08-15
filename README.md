@@ -10,5 +10,9 @@ Tools/Frameworks: Git, Azure, NodeJS, ReactJS, Visual Studio, Unity, Unreal Engi
 ## Projects
 
 ### Radiance Shores
+A Pre-Alpha wave defense game about stopping pirate chickens from attacking your settlement. Use cannons for defense and the platforms/jump-pads to traverse the water. Have fun defending the beach! [Radiance Shores](https://ourlittlestudio.itch.io/radiant-shores)
 
-[Radiance Shores](https://ourlittlestudio.itch.io/radiant-shores)
+### Noir
+Avoiding darkness, and basking in light. A unique platformer that utilize lighting as mechanic. [Noir](https://ourlittlestudio.itch.io/noir)
+
+
