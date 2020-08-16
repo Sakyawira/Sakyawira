@@ -1,6 +1,6 @@
 # Sakyawira Nanda Ruslim
  
-Hi I am an aspiring software engineer! I make [games], webapps, and [data science](https://github.com/Sakyawira#data-science-and-machine-learning).
+Hi I am an aspiring software engineer! I make [games](https://github.com/Sakyawira#games-credits), webapps, and [data science](https://github.com/Sakyawira#data-science-and-machine-learning).
 
 ## Skills
 Programming Languages: C++, C#, Typescript, JavaScript, Python, Swift, Lua, HTML, CSS, Java.
