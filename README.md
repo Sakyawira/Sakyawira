@@ -19,7 +19,7 @@ Tools/Frameworks: Git, Azure, NodeJS, ReactJS, Visual Studio, Unity, Unreal Engi
 ## Web-Apps
 
 ### Guess Songs
-[This](https://github.com/Sakyawira/Guess) is a web-application that creates quizes about songs lyrics.
+[Guess Songs](https://github.com/Sakyawira/Guess) is a web-application that creates quizes about songs lyrics.
 
 ## Games Credits
 
