@@ -22,7 +22,7 @@ Tools/Frameworks: Git, Azure, NodeJS, ReactJS, Visual Studio, Unity, Unreal Engi
 [Guess Songs](https://github.com/Sakyawira/Guess) is a web-application that creates quizes about songs lyrics.
 
 ### Sudoku Web-App
-[This](https://sakyawira.github.io/Sudoku-Web/) is the classic game 'Sudoku' created with JavacScript, HTML, CSS, and Bootstrap.
+[This](https://sakyawira.github.io/Sudoku-Web/) is the classic game 'Sudoku' created with JavaScript, HTML, CSS, and Bootstrap.
 
 ## Games Credits
 
