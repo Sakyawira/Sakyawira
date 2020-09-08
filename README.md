@@ -3,7 +3,7 @@
 Hi I am an aspiring software engineer! I make [games](https://github.com/Sakyawira#games-credits), [webapps](https://github.com/Sakyawira#web-apps), and [data science](https://github.com/Sakyawira#data-science-and-machine-learning).
 
 ## Skills
-Programming Languages: C++, C#, Typescript, JavaScript, Python, Swift, Lua, HTML, CSS, Java.
+Programming Languages: [C++](https://github.com/Sakyawira#Graphics-and-Simulations), C#, Typescript, JavaScript, Python, Swift, Lua, HTML, CSS, Java.
 
 Tools/Frameworks: Git, Azure, NodeJS, ReactJS, Visual Studio, Unity, Unreal Engine 4.
 
@@ -37,3 +37,11 @@ Avoiding darkness, and basking in light. [Noir](https://ourlittlestudio.itch.io/
 
 ### Wayward
 [Wayward](https://ourlittlestudio.itch.io/wayward) is an explorative piece about intrinsic and extrinsic motivation.
+
+## Graphics and Simulations
+
+### C++ OpenGL Terrain, Shadows, and Skeletal Animation
+[This](https://github.com/Sakyawira/AdvancedGraphics) is a showcase of terrain generation using tesselation and gemoetry shaders as well as shadow-mapping and skeletal animation in OpenGL and C++.
+
+### Cloth Simulation
+[This](https://github.com/Sakyawira/ClothPhysics) is a cloth simlation using Verlet integration in OpenGl and C++.
