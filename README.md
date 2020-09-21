@@ -10,6 +10,9 @@ Tools/Frameworks: Git, Azure, NodeJS, ReactJS, Visual Studio, Unity, Unreal Engi
 
 ## Data Science and Machine Learning
 
+### Sentiment Analysis of Epic Games Store
+[This](https://github.com/Sakyawira/Sentiment-Analysis) is a sentiment analysis of Epic Games Store using machine learning in a Virtual Environment Jupyter Notebook.
+
 ### Linear Regression Analysis of Auckland House Prices
 [This](https://github.com/Sakyawira/auckland-house-prices) is a data collection, data analysis, and machine learning model of Auckland house prices using Azure Jupyter Notebook.
 
