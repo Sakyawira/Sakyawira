@@ -44,7 +44,7 @@ Avoiding darkness, and basking in light. [Noir](https://ourlittlestudio.itch.io/
 ## Graphics and Simulations
 
 ### C++ OpenGL Terrain, Shadows, and Skeletal Animation
-[This](https://github.com/Sakyawira/AdvancedGraphics) is a showcase of terrain generation using tesselation and gemoetry shaders as well as shadow-mapping and skeletal animation in OpenGL and C++.
+[This](https://github.com/Sakyawira/AdvancedGraphics) is a showcase of terrain generation using tessellation and geometry shaders as well as shadow-mapping and skeletal animation in OpenGL and C++.
 
 ### Cloth Simulation
 [This](https://github.com/Sakyawira/ClothPhysics) is a cloth simlation using Verlet integration in OpenGl and C++.
