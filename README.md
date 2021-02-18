@@ -47,6 +47,8 @@ Avoiding darkness, and basking in light. [Noir](https://ourlittlestudio.itch.io/
 ### Wayward
 [Wayward](https://ourlittlestudio.itch.io/wayward) is an explorative piece about intrinsic and extrinsic motivation.
 
+<img src="https://github.com/Sakyawira/Sakyawira/blob/master/Media/Wayward%20by%20Our%20Little%20Studio%20-%20Google%20Chrome%202021-02-18%2018-37-52.gif?raw=true" />
+
 ## Graphics and Simulations
 
 ### C++ OpenGL Terrain, Shadows, and Skeletal Animation
