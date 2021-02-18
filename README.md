@@ -32,8 +32,7 @@ Tools/Frameworks: Git, Azure, NodeJS, ReactJS, Visual Studio, Unity, Unreal Engi
 ### Radiant Shores
 [Radiant Shores](https://ourlittlestudio.itch.io/radiant-shores) is a wave defense game about stopping pirate chickens from attacking your settlement. Use cannons for defense and the platforms/jump-pads to traverse the water. Have fun defending the beach! 
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/SCfXAOP" data-context="false" ><a href="//imgur.com/a/SCfXAOP"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+<img src="https://github.com/Sakyawira/Sakyawira/blob/master/Media/Demo_Radiant%20Shores_TeamRadiance.gif?raw=true" />
 
 ### Noir
 Avoiding darkness, and basking in light. [Noir](https://ourlittlestudio.itch.io/noir) is a unique platformer that utilizes lighting as mechanics.
