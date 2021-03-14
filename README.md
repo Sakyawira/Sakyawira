@@ -51,6 +51,9 @@ Avoiding darkness, and basking in light. [Noir](https://ourlittlestudio.itch.io/
 
 ## Graphics and Simulations
 
+### Steering Behaviours
+[This](https://github.com/Sakyawira/Steering-Behaviours) project showcases my implementation of autonomous agents and their different steering behaviours.
+
 ### C++ OpenGL Terrain, Shadows, and Skeletal Animation
 [This](https://github.com/Sakyawira/AdvancedGraphics) is a showcase of terrain generation using tessellation and geometry shaders as well as shadow-mapping and skeletal animation in OpenGL and C++.
 
