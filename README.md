@@ -7,25 +7,16 @@ Programming Languages: [C++](https://github.com/Sakyawira#Graphics-and-Simulatio
 
 Tools/Frameworks: Git, Azure, NodeJS, ReactJS, Visual Studio, Unity, Unreal Engine 4.
 
+## Tools
+[This](https://github.com/Sakyawira/Visual-Novel-Plugin) is a set of tools that extends the Unity Editor to streamline the creation of Visual Novels for Windows, Web, and Android. Features such as Screenplay Editor, Emotion tags, and Touch Control support are available without the need to code.
 
-## Data Science and Machine Learning
+## Graphics and Simulations
 
-### Sentiment Analysis of Epic Games Store
-[This](https://github.com/Sakyawira/Sentiment-Analysis) is a sentiment analysis of Epic Games Store using machine learning in a Virtual Environment Jupyter Notebook.
+### Steering Behaviours
+[This](https://github.com/Sakyawira/Steering-Behaviours) project showcases my implementation of autonomous agents and their different steering behaviours.
 
-### Linear Regression Analysis of Auckland House Prices
-[This](https://github.com/Sakyawira/auckland-house-prices) is a data collection, data analysis, and machine learning model of Auckland house prices using Azure Jupyter Notebook.
-
-### Linear Regression Analysis of Relative CPU Performance
-[This](https://github.com/Sakyawira/Relative-CPU-Performance-Data-Analysis) is a data collection, data analysis, and machine learning model of CPU Performance using Azure Jupyter Notebook.
-
-## Web-Apps
-
-### Guess The Song
-[Guess The Song](https://guesssong.azurewebsites.net) is a web-application that creates quizzes about song lyrics. The Source Code is available [here](https://github.com/Sakyawira/Guess).
-
-### Sudoku Web-App
-[This](https://sakyawira.github.io/Sudoku-Web/) is the classic game 'Sudoku' created with JavaScript, HTML, CSS, and Bootstrap.
+### C++ OpenGL Terrain, Shadows, and Skeletal Animation
+[This](https://github.com/Sakyawira/AdvancedGraphics) is a showcase of terrain generation using tessellation and geometry shaders as well as shadow-mapping and skeletal animation in OpenGL and C++.
 
 ## Games Credits
 
@@ -49,13 +40,25 @@ Avoiding darkness, and basking in light. [Noir](https://ourlittlestudio.itch.io/
 
 <img src="https://github.com/Sakyawira/Sakyawira/blob/master/Media/Wayward%20by%20Our%20Little%20Studio%20-%20Google%20Chrome%202021-02-18%2018-37-52.gif?raw=true" />
 
-## Graphics and Simulations
-
-### Steering Behaviours
-[This](https://github.com/Sakyawira/Steering-Behaviours) project showcases my implementation of autonomous agents and their different steering behaviours.
-
-### C++ OpenGL Terrain, Shadows, and Skeletal Animation
-[This](https://github.com/Sakyawira/AdvancedGraphics) is a showcase of terrain generation using tessellation and geometry shaders as well as shadow-mapping and skeletal animation in OpenGL and C++.
 
 ### Cloth Simulation
 [This](https://github.com/Sakyawira/ClothPhysics) is a cloth simulation using Verlet integration in OpenGl and C++.
+
+## Data Science and Machine Learning
+
+### Sentiment Analysis of Epic Games Store
+[This](https://github.com/Sakyawira/Sentiment-Analysis) is a sentiment analysis of Epic Games Store using machine learning in a Virtual Environment Jupyter Notebook.
+
+### Linear Regression Analysis of Auckland House Prices
+[This](https://github.com/Sakyawira/auckland-house-prices) is a data collection, data analysis, and machine learning model of Auckland house prices using Azure Jupyter Notebook.
+
+### Linear Regression Analysis of Relative CPU Performance
+[This](https://github.com/Sakyawira/Relative-CPU-Performance-Data-Analysis) is a data collection, data analysis, and machine learning model of CPU Performance using Azure Jupyter Notebook.
+
+## Web-Apps
+
+### Guess The Song
+[Guess The Song](https://guesssong.azurewebsites.net) is a web-application that creates quizzes about song lyrics. The Source Code is available [here](https://github.com/Sakyawira/Guess).
+
+### Sudoku Web-App
+[This](https://sakyawira.github.io/Sudoku-Web/) is the classic game 'Sudoku' created with JavaScript, HTML, CSS, and Bootstrap.
