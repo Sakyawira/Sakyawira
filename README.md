@@ -26,22 +26,22 @@ Tools/Frameworks: Git, Azure, NodeJS, ReactJS, Visual Studio, Unity, Unreal Engi
 ## Games Credits
 
 ### Radiant Shores
-[Radiant Shores](https://ourlittlestudio.itch.io/radiant-shores) is a wave defense game about stopping pirate chickens from attacking your settlement. Use cannons for defense and the platforms/jump-pads to traverse the water. Have fun defending the beach! 
+[Radiant Shores](https://ourlittlestudio.itch.io/radiant-shores) is a wave defense game about stopping pirate chickens from attacking your settlement. Use cannons for defense and the platforms/jump-pads to traverse the water. Have fun defending the beach! (Built in Unreal Engine 4)
 
 <img src="https://github.com/Sakyawira/Sakyawira/blob/master/Media/Demo_Radiant%20Shores_TeamRadiance.gif?raw=true" />
 
 ### Noir
-Avoiding darkness, and basking in light. [Noir](https://ourlittlestudio.itch.io/noir) is a unique platformer that utilizes lighting as mechanics.
+Avoiding darkness, and basking in light. [Noir](https://ourlittlestudio.itch.io/noir) is a unique platformer that utilizes lighting as mechanics. (Built in Unreal Engine 4)
 
 <img src="https://github.com/Sakyawira/Sakyawira/blob/master/Media/Demo-Noir-TeamRadiance.gif?raw=true" />
 
 ### Yanet in Yonderland
-[Yanet in Yonderland](https://ourlittlestudio.itch.io/yanet-in-yonderland) is a side-scrolling puzzle platformer. This game was featured on the front page of [Newgrounds](https://www.newgrounds.com/portal/view/732919) and get published by [Coolmath Games](https://www.coolmathgames.com/0-yanet-in-yonderland).
+[Yanet in Yonderland](https://ourlittlestudio.itch.io/yanet-in-yonderland) is a side-scrolling puzzle platformer. This game was featured on the front page of [Newgrounds](https://www.newgrounds.com/portal/view/732919) and get published by [Coolmath Games](https://www.coolmathgames.com/0-yanet-in-yonderland). (Built in Unity)
 
 <img src="https://github.com/Sakyawira/Sakyawira/blob/master/Media/Yanet%20in%20Yonderland%20by%20Our%20Little%20Studio%20-%20Google%20Chrome%202021-02-18%2016-56-53.gif?raw=true" />
 
 ### Wayward
-[Wayward](https://ourlittlestudio.itch.io/wayward) is an explorative piece about intrinsic and extrinsic motivation.
+[Wayward](https://ourlittlestudio.itch.io/wayward) is an explorative piece about intrinsic and extrinsic motivation. (Built in Unity)
 
 <img src="https://github.com/Sakyawira/Sakyawira/blob/master/Media/Wayward%20by%20Our%20Little%20Studio%20-%20Google%20Chrome%202021-02-18%2018-37-52.gif?raw=true" />
 
