@@ -48,7 +48,7 @@ Avoiding darkness, and basking in light. [Noir](https://ourlittlestudio.itch.io/
 ## Data Science and Machine Learning
 
 ### Sentiment Analysis of Epic Games Store
-[This](https://github.com/Sakyawira/Sentiment-Analysis) is a sentiment analysis of Epic Games Store using machine learning in a Virtual Environment Jupyter Notebook.
+[This](https://github.com/Sakyawira/Sentiment-Analysis) is an investigation on the popularity of Epic Games Store, utilising data collection from Epic Games Store subreddit, data exploration and cleaning in Jupyter Notebook, model training, and sentiment analysis.
 
 ### Linear Regression Analysis of Auckland House Prices
 [This](https://github.com/Sakyawira/auckland-house-prices) is a data collection, data analysis, and machine learning model of Auckland house prices using Azure Jupyter Notebook.
@@ -59,7 +59,7 @@ Avoiding darkness, and basking in light. [Noir](https://ourlittlestudio.itch.io/
 ## Web-Apps
 
 ### Guess The Song
-[Guess The Song](https://guesssong.azurewebsites.net) is a web-application that creates quizzes about song lyrics. The Source Code is available [here](https://github.com/Sakyawira/Guess).
+[Guess The Song](https://guesssong.azurewebsites.net) is a web-application that creates quizzes about song lyrics. Its front end was written in typescript and deployed to Azure App Service, while the backend was written in C#. It also stores data in Azure SQL Database. The Source Code is available [here](https://github.com/Sakyawira/Guess).
 
 ### Sudoku Web-App
 [This](https://sakyawira.github.io/Sudoku-Web/) is the classic game 'Sudoku' created with JavaScript, HTML, CSS, and Bootstrap.
