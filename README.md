@@ -17,9 +17,6 @@ Tools/Frameworks: Git, Azure, NodeJS, ReactJS, Visual Studio, Unity, Unreal Engi
 ### Steering Behaviours
 [This](https://github.com/Sakyawira/Steering-Behaviours) project showcases my implementation of autonomous agents and their different steering behaviours.
 
-### C++ OpenGL Terrain, Shadows, and Skeletal Animation
-[This](https://github.com/Sakyawira/AdvancedGraphics) is a showcase of terrain generation using tessellation and geometry shaders as well as shadow-mapping and skeletal animation in OpenGL and C++.
-
 ### Cloth Simulation
 [This](https://github.com/Sakyawira/ClothPhysics) is a cloth simulation using Verlet integration in OpenGl and C++.
 
