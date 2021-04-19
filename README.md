@@ -7,19 +7,6 @@ Programming Languages: [C++](https://github.com/Sakyawira#Graphics-and-Simulatio
 
 Tools/Frameworks: Git, Azure, NodeJS, ReactJS, Visual Studio, Unity, Unreal Engine 4.
 
-## Tools
-
-### Visual Novel Creation Tool
-[This](https://github.com/Sakyawira/Visual-Novel-Plugin) is a set of tools that extends the Unity Editor to streamline the creation of Visual Novels for Windows, Web, and Android. Features such as Screenplay Editor, Emotion tags, and Touch Control support are available without the need to code.
-
-## Graphics and Simulations
-
-### Steering Behaviours
-[This](https://github.com/Sakyawira/Steering-Behaviours) project showcases my implementation of autonomous agents and their different steering behaviours.
-
-### Cloth Simulation
-[This](https://github.com/Sakyawira/ClothPhysics) is a cloth simulation using Verlet integration in OpenGl and C++.
-
 ## Games Credits
 
 ### Radiant Shores
@@ -41,6 +28,20 @@ Avoiding darkness, and basking in light. [Noir](https://ourlittlestudio.itch.io/
 [Wayward](https://ourlittlestudio.itch.io/wayward) is an explorative piece about intrinsic and extrinsic motivation. (Built in Unity)
 
 <img src="https://github.com/Sakyawira/Sakyawira/blob/master/Media/Wayward%20by%20Our%20Little%20Studio%20-%20Google%20Chrome%202021-02-18%2018-37-52.gif?raw=true" />
+
+
+## Tools
+
+### Visual Novel Creation Tool
+[This](https://github.com/Sakyawira/Visual-Novel-Plugin) is a set of tools that extends the Unity Editor to streamline the creation of Visual Novels for Windows, Web, and Android. Features such as Screenplay Editor, Emotion tags, and Touch Control support are available without the need to code.
+
+## Graphics and Simulations
+
+### Steering Behaviours
+[This](https://github.com/Sakyawira/Steering-Behaviours) project showcases my implementation of autonomous agents and their different steering behaviours.
+
+### Cloth Simulation
+[This](https://github.com/Sakyawira/ClothPhysics) is a cloth simulation using Verlet integration in OpenGl and C++.
 
 ## Data Science and Machine Learning
 
