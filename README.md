@@ -12,7 +12,7 @@ Tools/Frameworks: Git, Azure, NodeJS, ReactJS, Visual Studio, Unity, Unreal Engi
 ### Reel Away
 [Reel Away](https://ourlittlestudio.itch.io/radiant-shores) is a fishing simulation where you can catch up to 60 different types of fishes spread across the 3,000 m^2 seas complete with realistic water and dynamic weather. (Built using Unity)
 
-<img src="https://github.com/Sakyawira/Sakyawira/blob/master/Media/reelaway.gif?raw=true" width="960" height="540"/>
+<img src="https://github.com/Sakyawira/Sakyawira/blob/master/Media/reelaway.gif?raw=true" />
 
 ### Radiant Shores
 [Radiant Shores](https://ourlittlestudio.itch.io/radiant-shores) is a wave defense game about stopping pirate chickens from attacking your settlement. Use cannons for defense and the platforms/jump-pads to traverse the water. Have fun defending the beach! (Built using Unreal Engine 4)
