@@ -1,6 +1,6 @@
 # Sakyawira Nanda Ruslim
  
-Hi! I am a Software Engineer at Fisher and Paykel Technologies! I make [games](https://github.com/Sakyawira#games-credits), [webapps](https://github.com/Sakyawira#web-apps), and do [data science](https://github.com/Sakyawira#data-science-and-machine-learning) stuff. Feel free to use my codes for learning purposes :D
+Hi! I am a Software Engineer at Fisher and Paykel Technologies! In my free time, I make [games](https://github.com/Sakyawira#games-credits), [webapps](https://github.com/Sakyawira#web-apps), and do [data science](https://github.com/Sakyawira#data-science-and-machine-learning) stuff. Feel free to use my codes for learning purposes :D
 
 ## Skills
 Programming Languages: [C++](https://github.com/Sakyawira#Graphics-and-Simulations), C#, Typescript, JavaScript, Python, Swift, Lua, HTML, CSS, Java.
