@@ -46,7 +46,7 @@ Avoiding darkness, and basking in light. [Noir](https://ourlittlestudio.itch.io/
 [This](https://github.com/Sakyawira/Steering-Behaviours) project showcases my implementation of autonomous agents and their different steering behaviours.
 
 ### Cloth Simulation
-[This](https://github.com/Sakyawira/ClothPhysics) is a cloth simulation using Verlet integration in OpenGl and C++.
+[This](https://github.com/Sakyawira/ClothPhysics) is a cloth simulation using Verlet integration in OpenGL and C++.
 
 ## Data Science and Machine Learning
 
