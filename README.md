@@ -37,7 +37,7 @@ Avoiding darkness, and basking in light. [Noir](https://ourlittlestudio.itch.io/
 ### When We Sleep, Where Do We Go?
 [When We Sleep, Where Do We Go?](https://sakyawira.itch.io/when-we-sleep-where-do-we-go)  is an explorative side scroller about death and the nature of afterlife. (Built using Unity)
 
-<img src="https://github.com/Sakyawira/Sakyawira/blob/master/Media/Wayward%20by%20Our%20Little%20Studio%20-%20Google%20Chrome%202021-02-18%2018-37-52.gif?raw=true" />
+<img src="https://github.com/Sakyawira/Sakyawira/blob/master/Media/Sleep.gif" />
 
 
 ## Tools
