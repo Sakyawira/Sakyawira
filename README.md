@@ -10,7 +10,7 @@ Tools/Frameworks: Git, Azure, NodeJS, ReactJS, Visual Studio, Unity, Unreal Engi
 ## Games Credits
 
 ### Reel Away
-[Reel Away](https://ourlittlestudio.itch.io/radiant-shores) is a fishing simulation where you can catch up to 60 different types of fishes spread across the 3,000 m^2 seas complete with realistic water and dynamic weather. (Built using Unity)
+[Reel Away](https://corn-on-jacob.itch.io/reelaway) is a fishing simulation where you can catch up to 60 different types of fishes spread across the 3,000 m^2 seas complete with realistic water and dynamic weather. (Built using Unity)
 
 <img src="https://github.com/Sakyawira/Sakyawira/blob/master/Media/reelaway.gif?raw=true" />
 
