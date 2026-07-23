@@ -12,7 +12,7 @@ Tools/Frameworks: Git, Azure, NodeJS, ReactJS, Visual Studio, Unity, Unreal Engi
 ### Guess The Song
 [Guess The Song](https://sakyawira.github.io/guess-remake/) is a web-application that creates quizzes about Youtube Videos. Its [frontend](https://github.com/Sakyawira/guess-remake) is written in typescript with React and Tailwind CSS, and deployed to GitHub Pages. The [backend](https://github.com/Sakyawira/nestjs-learn) is written in NestJs and deployed to Render. The database is MongoDB.
 
-<img width="1728" height="886" alt="image" src="https://github.com/user-attachments/assets/a9142556-dc11-4d9b-b6cb-64937d34242b" />
+<img width="1728" height="995" alt="image" src="https://github.com/user-attachments/assets/8bc54a5b-b1a1-4b9c-ae0d-7f49e00e6627" />
 
 
 ## Games Credits
